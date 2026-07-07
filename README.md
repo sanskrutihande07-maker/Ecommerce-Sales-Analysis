@@ -71,9 +71,17 @@ pip install -r requirements.txt
   <img width="1083" height="635" alt="sales_by_product" src="https://github.com/user-attachments/assets/c2b555de-dc1c-44ac-a1ff-31fcabc00c7c" />
 
 * Line Chart
+  <img width="1283" height="659" alt="daily_sales_trend" src="https://github.com/user-attachments/assets/5b671f21-089f-47c1-afe3-247d2a16b77e" />
+
 * Pie Chart
+
+  <img width="817" height="616" alt="sales_distribution" src="https://github.com/user-attachments/assets/08ba7f18-d80d-4e48-8e41-42ab72960dd5" />
+
 * Region-wise Sales Chart
+  <img width="769" height="643" alt="region_sales" src="https://github.com/user-attachments/assets/c4bb8c61-3aa1-4e49-b65d-fb4b29d736c0" />
+
 * Quantity Sold Chart
+<img width="1129" height="637" alt="quantity_sold" src="https://github.com/user-attachments/assets/baf2e16f-75a2-4ab0-a26b-ac29dc528510" />
 
 ## Business Insights
 
