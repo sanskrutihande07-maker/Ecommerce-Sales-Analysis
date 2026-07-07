@@ -68,6 +68,8 @@ pip install -r requirements.txt
 ## Visualizations
 
 * Bar Chart
+  <img width="1083" height="635" alt="sales_by_product" src="https://github.com/user-attachments/assets/c2b555de-dc1c-44ac-a1ff-31fcabc00c7c" />
+
 * Line Chart
 * Pie Chart
 * Region-wise Sales Chart
